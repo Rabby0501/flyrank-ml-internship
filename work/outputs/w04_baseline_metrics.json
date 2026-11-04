@@ -1,0 +1,16 @@
+{
+  "slice": {
+    "min_impressions": 300,
+    "max_position": 20,
+    "stale_days": 90,
+    "n_pages": 13205,
+    "n_flagged": 6487,
+    "base_rate": 0.607
+  },
+  "precision_at_k_rule": {
+    "P@20": 0.65,
+    "P@50": 0.64,
+    "P@100": 0.72,
+    "P@500": 0.706
+  }
+}
